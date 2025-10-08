@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 41: 6-12 Oktober 2025
 
-[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
+[📅 Lihat Master Schedule](ut-tuton-2025-ganjil-master-schedule.md)
 
 ## 🎯 Fokus Minggu Ini
 
@@ -40,7 +40,6 @@ created: 2025-10-05
 
 ### Profesi Keguruan 319
 - 
-
 ### English for Business 2
 Materi Pokok : F2F Communication in business
 Submateri :
@@ -89,7 +88,7 @@ dari Modul Buku BMP
 Talk-ins internal talking with Unit atau sub-Unit, biasanya dalam departemen
 ```
 
-to assignments [Diskusi 1 EfB](04_courses/english_for_Business_2/assignments/diskusi-1-EfB.md)
+to assignments [Diskusi 1 EfB](../04_courses/english_for_Business_2/assignments/diskusi-1-EfB.md)
 
 
 ### English Morphology and Syntax 2

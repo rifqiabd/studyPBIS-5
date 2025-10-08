@@ -17,47 +17,47 @@ created: 2025-10-05
 
 ---
 ## Sesi 1 
-to [Week-1](00_Jadwal/Week-1.md)
+to [Week-1](week-1.md)
 - **Tutorial & Diskusi 1:** 6–19 Oktober 2025
 - **Tugas:** –
 
 ## Sesi 2
-to [Week-2](00_Jadwal/Week-2.md)
+to [Week-2](week-2.md)
 - **Tutorial & Diskusi 2:** 13–26 Oktober 2025
 - **Tugas:** –
 
 ## Sesi 3 🔴
-to [Week-3](00_Jadwal/Week-3.md)
+to [Week-3](week-3.md)
 - **Tutorial:** 20 Oktober–2 November 2025
 - **Diskusi 3:** 20–26 Oktober 2025
 - **⏰ Tugas 1:** 20 Oktober–3 November 2025, **Deadline: 15.00 WIB**
 
 ## Sesi 4
-to [Week-4](00_Jadwal/Week-4.md)
+to [Week-4](week-4.md)
 - **Tutorial & Diskusi 4:** 27 Oktober–9 November 2025
 - **Diskusi:** 27 Oktober–2 November 2025
 - **Tugas:** –
 
 ## Sesi 5 🔴
-to [Week-5](00_Jadwal/Week-5.md)
+to [Week-5](week-5.md)
 - **Tutorial:** 3–16 November 2025
 - **Diskusi 5:** 3–9 November 2025
 - **⏰ Tugas 2:** 3–17 November 2025, **Deadline: 15.00 WIB**
 
 ## Sesi 6
-to [Week-6](00_Jadwal/Week-6.md)
+to [Week-6](week-6.md)
 - **Tutorial & Diskusi 6:** 10–23 November 2025
 - **Diskusi:** 10–16 November 2025
 - **Tugas:** –
 
 ## Sesi 7 🔴
-to [Week-7](00_Jadwal/Week-7.md)
+to [Week-7](week-7.md)
 - **Tutorial:** 17–30 November 2025
 - **Diskusi 7:** 17–23 November 2025
 - **⏰ Tugas 3:** 17 November–1 Desember 2025, **Deadline: 15.00 WIB**
 
 ## Sesi 8
-to [Week-8](00_Jadwal/Week-8.md)
+to [Week-8](week-8.md)
 - **Tutorial & Diskusi 8:** 24 November–7 Desember 2025
 - **Diskusi:** 24–30 November 2025
 - **Tugas:** –

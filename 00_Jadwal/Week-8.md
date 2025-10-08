@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 48: 24-30 November 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ---
 ## ⏰ DEADLINE ALERT
@@ -87,5 +87,5 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ---
 
-**Next:** [[Week-9]]  
-**Prev:** [[Week-7]]
+**Next:** [Week-9](00_Jadwal/Week-9.md)  
+**Prev:** [Week-7](00_Jadwal/Week-7.md)

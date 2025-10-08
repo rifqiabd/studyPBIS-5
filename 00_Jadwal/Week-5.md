@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 45: 3-9 November 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ---
 ## ⏰ DEADLINE ALERT
@@ -87,5 +87,5 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ---
 
-**Next:** [[Week-6]]  
-**Prev:** [[Week-4]]
+**Next:** [Week-6](00_Jadwal/Week-6.md)  
+**Prev:** [Week-4](00_Jadwal/Week-4.md)

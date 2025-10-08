@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 47: 17-23 November 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ---
 ## ⏰ DEADLINE ALERT
@@ -87,5 +87,5 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ---
 
-**Next:** [[Week-8]]  
-**Prev:** [[Week-6]]
+**Next:** [Week-8](00_Jadwal/Week-8.md)  
+**Prev:** [Week-6](00_Jadwal/Week-6.md)

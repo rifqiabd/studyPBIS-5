@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 42: 13-19 Oktober 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ## 🎯 Fokus Minggu Ini
 
@@ -78,5 +78,5 @@ created: 2025-10-05
 
 ---
 
-**Next:** [[Week-3]]  
-**Prev:** [[Week-1]]
+**Next:** [Week-3](00_Jadwal/Week-3.md)  
+**Prev:** [Week-1](00_Jadwal/Week-1.md)

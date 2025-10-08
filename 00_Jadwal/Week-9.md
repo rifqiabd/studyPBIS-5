@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 49: 1-7 Desember 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ---
 ## ⏰ DEADLINE ALERT
@@ -88,5 +88,5 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ---
 
-**Next:** [[Week-50]]  
-**Prev:** [[Week-8]]
+**Next:** [Week-50](Week-50)  
+**Prev:** [Week-8](00_Jadwal/Week-8.md)

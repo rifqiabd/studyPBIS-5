@@ -7,7 +7,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ## Kenapa penting
 
 ## Terkait
-- [[ ]]
+- [ ](%20)
 
 ## Pertanyaan lanjutan
 - 

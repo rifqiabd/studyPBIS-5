@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 44: 27 Oktober - 2 November 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ---
 ## ⏰ DEADLINE ALERT
@@ -88,5 +88,5 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ---
 
-**Next:** [[Week-5]]  
-**Prev:** [[Week-3]]
+**Next:** [Week-5](00_Jadwal/Week-5.md)  
+**Prev:** [Week-3](00_Jadwal/Week-3.md)

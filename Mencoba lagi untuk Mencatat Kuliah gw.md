@@ -13,7 +13,7 @@ Bisa, berikut rencana lengkap dan praktis: susun sistem catatan di Obsidian, hub
 ## Workflow belajar harian
 
 - Collect: catat poin penting kuliah/bacaan sebagai “Literature Note” di 02_Literature; tulis dengan kata sendiri, bukan copy-paste.[obsidian+1](https://forum.obsidian.md/t/simple-zettelkasten-guide/3054)
-- Connect: ubah ide paling penting jadi “Permanent Note” atomik di 03_Zettel dan tautkan dengan [[double bracket]] ke ide terkait.[smartremotegigs+1](https://smartremotegigs.com/zettelkasten-in-obsidian/)
+- Connect: ubah ide paling penting jadi “Permanent Note” atomik di 03_Zettel dan tautkan dengan [double bracket](double%20bracket) ke ide terkait.[smartremotegigs+1](https://smartremotegigs.com/zettelkasten-in-obsidian/)
 - Create: susun “Synthesis note” untuk tugas/presentasi; ini mempercepat nulis esai dan persiapan speaking.[publish.obsidian](https://publish.obsidian.md/aidanhelfant/Spaces/%F0%9F%AA%90Content+Creation/%F0%9F%93%B8YouTube+Videos/The+Ultimate+Beginners+Guide+To+Starting+A+Zettelkasten+In+Obsidian+As+A+Student+Part+1)youtube
 
 ## Template inti yang dibutuhkan

@@ -7,7 +7,7 @@ created: 2025-10-05
 
 # Week 41: 6-12 Oktober 2025
 
-[[UT Tuton 2025 Ganjil - Master Schedule|📅 Lihat Master Schedule]]
+[📅 Lihat Master Schedule](00_Jadwal/UT%20Tuton%202025%20Ganjil%20-%20Master%20Schedule.md)
 
 ## 🎯 Fokus Minggu Ini
 
@@ -89,7 +89,7 @@ dari Modul Buku BMP
 Talk-ins internal talking with Unit atau sub-Unit, biasanya dalam departemen
 ```
 
-to assignments [[Diskusi 1 EfB]]
+to assignments [Diskusi 1 EfB](04_Courses/English%20for%20Business%202/Assignments/Diskusi%201%20EfB.md)
 
 
 ### English Morphology and Syntax 2
@@ -125,6 +125,6 @@ to assignments [[Diskusi 1 EfB]]
 
 ---
 
-**Next:** [[Week-2]]  
-**Prev:** [[Week-40]]
+**Next:** [Week-2](00_Jadwal/Week-2.md)  
+**Prev:** [Week-40](Week-40)
 

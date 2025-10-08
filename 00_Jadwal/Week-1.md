@@ -89,7 +89,7 @@ dari Modul Buku BMP
 Talk-ins internal talking with Unit atau sub-Unit, biasanya dalam departemen
 ```
 
-to assignments [Diskusi 1 EfB](04_Courses/English%20for%20Business%202/Assignments/Diskusi%201%20EfB.md)
+to assignments [Diskusi 1 EfB](04_courses/english_for_Business_2/assignments/diskusi-1-EfB.md)
 
 
 ### English Morphology and Syntax 2

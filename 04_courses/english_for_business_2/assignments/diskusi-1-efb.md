@@ -29,7 +29,7 @@ and this form AI
 
 Step-by-Step Instructions: 
 ## Generate a Table of Contents in Microsoft Word
-1. First, open your Microsoft Word document where you want to create a Table of Contents.	![Pasted image 20251008161517](98_uploads/pasted-image-20251008161517.png)
+1. First, open your Microsoft Word document where you want to create a Table of Contents.	![Pasted image 20251008161517](../../../98_uploads/pasted-image-20251008161517.png)
 2. Go to the top of your document, or the page where you want the Table of Contents to appear.	![Pasted image 20251008161402](98_Uploads/Pasted-image-20251008161402.png)
 3. Click on the place in the document to set your cursor. 	![Pasted image 20251008161551](98_Uploads/Pasted-image-20251008161551.png)
 4. Navigate to the "References" tab in the Word ribbon at the top of the screen. 	![Pasted image 20251008161627](98_Uploads/Pasted-image-20251008161627.png)

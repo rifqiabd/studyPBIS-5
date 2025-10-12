@@ -82,20 +82,128 @@ Pertimbangan apakah intruksi ini perlu di demo kan. perlu dilihat tiap individu 
 ```
 
 dari Modul Buku BMP
-```
+```md
 # Talk-ins, Quality Circles, and Briefings
 ## Talk-ins
 Talk-ins internal talking with Unit atau sub-Unit, biasanya dalam departemen
 ```
 
 to assignments [Diskusi 1 EfB](../04_courses/english_for_Business_2/assignments/diskusi-1-EfB.md)
-
-
 ### English Morphology and Syntax 2
 
 
 ### Introduction to Linguistics 3
-- 
+```md
+Materi pokok : **Language and Linguistics**
+Pertanyaan pemantik :
+- Kapan dan dimana bahasa dimulai ?
+- Mengapa Bahasa Muncul
+
+Teori2 Asal Bahasa :
+**Divine Source** : 
+Dari Tuhan (peneliti Raja Psamtik I dan Raja James)
+
+**Natural Sound Source** : 
+Bahasa berasal dari peniruan suara alam (onomatopoeia).
+**Bow-Wow Theory**: manusia meniru suara binatang atau alam.
+
+**The Social Interaction Source** : 
+Bahasa muncul dari teriakan atau ekspresi emosi saat bekerja sama.
+Yo-he-ho Theory: suara yang dihasilkan saat kerja kelompok.
+
+
+**The Physical Adaptation Source**
+Bahasa mungkin berasal dari gerakan manual (gesture) sebelum menjadi verbal.
+Berkaitan dengan aktivitas otak.
+
+
+**The Physical Adaptation Source**
+Evolusi fisik manusia mendukung kemampuan bicara:
+gigi, bibir, mulut, laring, faring.
+
+
+**The Tool Making Source**
+Bahasa mungkin berasal dari gerakan manual (gesture) sebelum menjadi verbal.
+Berkaitan dengan aktivitas otak.
+
+
+**The Genetic Source**
+Ada “language gene” khusus manusia.
+Innateness hypothesis: kemampuan bahasa bawaan.
+
+3. Mengapa Mempelajari Bahasa?
+Percakapan normal: 4.000–5.000 kata/jam
+Radio talk: 8.000–9.000 kata/jam
+Membaca: 14.000–15.000 kata/jam
+Total sehari: ±100.000 kata
+Bahasa adalah aktivitas dominan manusia.
+
+4. Properties of Language (Ciri-ciri Bahasa)
+a. Displacement
+Hewan hanya bicara tentang “di sini dan sekarang”.
+Manusia bisa bicara tentang masa lalu, masa depan, hal yang tidak ada.
+
+b. Arbitrariness
+Tidak ada hubungan alami antara bentuk (bunyi) dan makna.
+Contoh: kata “dog” tidak ada kaitan langsung dengan hewan anjing.
+
+c. Cultural Transmission
+Bahasa manusia dipelajari secara budaya, bukan diwariskan genetik.
+Contoh: bayi Korea diadopsi oleh keluarga Amerika → akan berbicara bahasa Inggris.
+
+d. Productivity
+Hewan: pesan terbatas (monyet 36 panggilan, serangga 4 sinyal).
+Manusia: tak terbatas, bisa mencipta ekspresi baru.
+
+e. Duality
+Bahasa manusia punya dua lapisan:
+- Fonem (bunyi dasar, tidak bermakna sendiri)
+- Kombinasi fonem → kata bermakna, Contoh: i, b, n → bin, nib.
+
+```
+
+catatan dari The Concept of Language Noam Chomsky
+```md
+Video ini adalah wawancara mendalam antara Noam Chomsky dan Al Page dari University of Washington, membahas konsep bahasa sebagai fenomena biologis, sosial, dan budaya. Chomsky menyoroti bagaimana bahasa berkembang, peran dialek, mitos tentang “kemurnian” bahasa, serta bagaimana anak-anak secara alami memperoleh bahasa tanpa diajarkan secara eksplisit.
+
+## 🧠 Highlights  
+[00:00:29](#timestamp-00:00:29) **Perbedaan Bahasa dan Evolusi Bahasa**
+- Bahasa seperti Prancis memiliki fitur yang lebih mirip bahasa Jerman daripada bahasa Roman lainnya.
+- Bahasa berubah bukan karena satu bahasa “berubah,” tetapi karena campuran dialek yang bergeser seiring waktu.
+
+[00:03:59](#timestamp-00:03:59) **Multilingualisme dan Nasionalisme**
+- Bahasa nasional adalah konstruksi modern, lahir dari nasionalisme dan sistem komunikasi.
+- Banyak wilayah di dunia memiliki variasi bahasa yang tidak saling dimengerti, bahkan dalam satu negara.
+
+[00:06:29](#timestamp-00:06:29) **Mitos Kemurnian Bahasa**
+- Gagasan bahwa satu bahasa lebih “murni” adalah mitos budaya dan politik.
+- Contoh dari Prancis yang mengklaim bahasa mereka paling jelas dan cocok untuk sains, sementara bahasa lain dianggap cocok untuk sastra.
+
+[00:09:49](#timestamp-00:09:49) **Bahasa Sastra dan Aturan Sekolah**
+- Aturan bahasa yang diajarkan di sekolah sering kali bersifat artifisial dan tidak mencerminkan bahasa alami.
+- Bahasa alami tumbuh di otak anak seperti pertumbuhan fisik—tidak bisa diajarkan secara eksplisit.
+
+[00:15:08](#timestamp-00:15:08) **Peran Slang dan Kreativitas**
+- Slang muncul dari kreativitas dan keinginan kelompok (terutama remaja) untuk membedakan diri.
+- Di masyarakat non-teknologis, inovasi bahasa menjadi bentuk kekayaan budaya.
+
+[00:16:32](#timestamp-00:16:32) **Bahasa dalam Seni dan Puisi**
+- Seni bahasa seperti puisi bekerja dalam kerangka aturan estetika yang menantang kecerdasan.
+- Puisi memicu pemikiran karena sifatnya yang padat dan ambigu, memaksa pembaca untuk mengisi makna.
+
+[00:19:08](#timestamp-00:19:08) **Humor dan Respons Emosional**
+- Humor dan respons emosional terhadap kata atau gambar adalah bagian dari struktur mendalam pikiran manusia.
+- Fenomena ini menunjukkan bahwa bahasa bukan sekadar alat komunikasi, tapi juga ekspresi kompleks dari sifat manusia.
+
+[00:22:10](#timestamp-00:22:10) **Perolehan Bahasa oleh Anak-anak**
+- Anak-anak belajar bahasa dengan kecepatan luar biasa, kadang satu kata per jam.
+- Mereka tidak belajar melalui definisi, melainkan mengaitkan kata dengan konsep yang sudah ada dalam pikiran mereka.
+
+Video ini adalah eksplorasi mendalam tentang bagaimana bahasa bukan hanya sistem komunikasi, tetapi juga cerminan dari struktur biologis dan sosial manusia. Cocok untuk siapa pun yang tertarik pada linguistik, pendidikan, atau filsafat bahasa.
+
+```
+
+to assignment [Diskusi Introduction to Linguistics](/04_courses/introduction-to-linguistics-3/assignments/diskusi-IntroToLing-1)
 
 ---
 
@@ -124,6 +232,5 @@ to assignments [Diskusi 1 EfB](../04_courses/english_for_Business_2/assignments/
 
 ---
 
-**Next:** [Week-2](00_Jadwal/Week-2.md)  
-**Prev:** [Week-40](Week-40)
+**Next:** [Week-2](/00_Jadwal/Week-2.md)  
 

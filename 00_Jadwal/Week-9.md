@@ -26,12 +26,12 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ## ✅ Checklist Wajib
 
-[ ] 🔴 Submit Tugas 3 sebelum 1 Des pukul 15.00 WIB
-[ ] Respons diskusi Sesi 8 (tutup 7 Des)
-[ ] Cek nilai partisipasi & tugas di sistem UT
-[ ] Weekly review final: rapikan semua catatan Tuton
-[ ] Refleksi semester: apa yang berhasil, apa yang perlu diperbaiki?
-[ ] Rayakan selesainya Tuton 2025 Ganjil! 🎊
+- [ ] 🔴 Submit Tugas 3 sebelum 1 Des pukul 15.00 WIB
+- [ ] Respons diskusi Sesi 8 (tutup 7 Des)
+- [ ] Cek nilai partisipasi & tugas di sistem UT
+- [ ] Weekly review final: rapikan semua catatan Tuton
+- [ ] Refleksi semester: apa yang berhasil, apa yang perlu diperbaiki?
+- [ ] Rayakan selesainya Tuton 2025 Ganjil! 🎊
 
 ---
 
@@ -71,7 +71,7 @@ Pastikan submit sebelum pukul 15.00 WIB!
 
 ## 📝 Tugas & Deliverables
 
-- [ ] 
+- - [ ] 
 
 ---
 

@@ -51,13 +51,17 @@ Berikut adalah **catatan belajar** dari video _"The 8 Parts of Speech in English
 -   Contoh: _in_, _on_, _at_, _under_, _between_.
 
 ### 8. **Articles**
-
-
+Definite article
+- the
+Indefinite article
+- a
+- an
+-  
 ----------
 
-Kalau kamu mau, aku bisa bantu buatkan **flashcards**, **kuis latihan**, atau **mind map** dari materi ini. Mau coba salah satu? 😊
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA0NzI4MzAsLTkyNDc2NzEyOV19
+eyJoaXN0b3J5IjpbMTYwMzAwMDcyNCwtMjAyMDQ3MjgzMCwtOT
+I0NzY3MTI5XX0=
 -->

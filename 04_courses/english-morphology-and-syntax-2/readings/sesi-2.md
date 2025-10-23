@@ -42,8 +42,7 @@ Berikut adalah **catatan belajar** dari video _"The 8 Parts of Speech in English
 - FANBOYS = for, and, nor, but, or, yet, so
 - correlative conjunction : either/or, neither/nor
 - Subordinating conjunctions:
-	because, since, as, although, though while/whilst
-	whereas
+	because, since, as, although, though, while/whilst, whereas
 
 
 ### 7. **Prepositions (Kata Depan)**
@@ -62,5 +61,5 @@ Kalau kamu mau, aku bisa bantu buatkan **flashcards**, **kuis latihan**, atau **
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTkwNzk1OTUsLTkyNDc2NzEyOV19
+eyJoaXN0b3J5IjpbMjk5NTU2NjEsLTkyNDc2NzEyOV19
 -->

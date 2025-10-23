@@ -39,7 +39,9 @@ Berikut adalah **catatan belajar** dari video _"The 8 Parts of Speech in English
 
 -   Menghubungkan kata, frasa, atau klausa.
 -   Contoh: _and_, _but_, _or_, _because_, _although_.
-- FANBOYS = for, and, nor
+- FANBOYS = for, and, nor, but, or, yet, so
+- correlative conjunction : either/or, neither/nor
+- subordinationg conjunction :
 
 ### 7. **Prepositions (Kata Depan)**
 
@@ -57,5 +59,5 @@ Kalau kamu mau, aku bisa bantu buatkan **flashcards**, **kuis latihan**, atau **
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5OTMxMzkyLC05MjQ3NjcxMjldfQ==
+eyJoaXN0b3J5IjpbOTE3MjI4MjkyLC05MjQ3NjcxMjldfQ==
 -->

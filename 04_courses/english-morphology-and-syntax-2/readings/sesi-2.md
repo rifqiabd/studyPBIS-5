@@ -50,10 +50,8 @@ Berikut adalah **catatan belajar** dari video _"The 8 Parts of Speech in English
 -   Menunjukkan hubungan antara kata benda dan bagian lain dalam kalimat.
 -   Contoh: _in_, _on_, _at_, _under_, _between_.
 
-### 8. **Interjections (Kata Seru)**
+### 8. **Articles**
 
--   Ekspresi emosional singkat, sering berdiri sendiri.
--   Contoh: _Wow!_, _Oh no!_, _Hey!_, _Oops!_
 
 ----------
 
@@ -61,5 +59,5 @@ Kalau kamu mau, aku bisa bantu buatkan **flashcards**, **kuis latihan**, atau **
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTU2NjEsLTkyNDc2NzEyOV19
+eyJoaXN0b3J5IjpbLTIwMjA0NzI4MzAsLTkyNDc2NzEyOV19
 -->
